@@ -1,0 +1,14 @@
+Assets/Packages
+Library
+Temp
+*.csproj
+*.sln
+*.userprefs
+_Temp
+proj.ios_mac/Pods
+obj
+proj.android-studio/.gradle
+proj.android-studio/.idea
+proj.android-studio/build
+proj.android-studio/app/build
+aliyunOssUpload.log
