@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4078f0e980d2444058d7639043d49274
+timeCreated: 1563957471
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AvantGarde CE
+  fontNames:
+  - AvantGarde CE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

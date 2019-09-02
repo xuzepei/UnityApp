@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c6cb0fce836de4801aa82a51b7b1df5c
+timeCreated: 1563957471
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Publica Play
+  fontNames:
+  - Publica Play
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
